@@ -1,15 +1,17 @@
 # React Book Search
-
+<br>
 ## Summary
 
 ```md
 This is an app where you can search through your favorite books!
 
 As an avid reader
-I want to search for new books to read
-SO that I can keep a list of books to purchase
-```
 
+I want to search for new books to read
+
+so that I can keep a list of books to purchase
+```
+<br>
 ## Description
 
     GIVEN a book search engine:
