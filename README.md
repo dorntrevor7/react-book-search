@@ -1,5 +1,7 @@
 # React Book Search
-<br>
+
+<br/>
+
 ## Summary
 
 ```md
@@ -11,7 +13,8 @@ I want to search for new books to read
 
 so that I can keep a list of books to purchase
 ```
-<br>
+<br/>
+
 ## Description
 
     GIVEN a book search engine:
