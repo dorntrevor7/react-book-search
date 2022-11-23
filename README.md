@@ -6,9 +6,9 @@ This is an app where you can search through your favorite books!
 
 ## Summary
 
-AS AN avid reader
-I WANT to search for new books to read
-SO THAT I can keep a list of books to purchase
+As as avid reader
+I want to search for new books to read
+SO that I can keep a list of books to purchase
 
     GIVEN a book search engine:
 
